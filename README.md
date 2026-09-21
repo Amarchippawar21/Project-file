@@ -1,1 +1,1 @@
-# Project-file
+# This is a project file.
